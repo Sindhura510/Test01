@@ -1,0 +1,15 @@
+{
+  "projectId": "5oaphc",
+  "chromeWebSecurity": false,
+
+  "db": {
+    "userName": "root",
+    "password": "Sragvimeda@4026",
+    "server": "Local instance MYSQL80 ",
+    "options": {
+        "database": "World",
+        "encrypt": true,
+        "rowCollectionOnRequestCompletion" : true 
+    }
+  }
+}
